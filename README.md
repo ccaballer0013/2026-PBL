@@ -9,10 +9,18 @@ As both the demand and cost of energy continues to rise, more and more people ar
 When investigating potential policy solutions, aspects such as political science, constitutional principles, political ideology, current events, and evidence must be taken into account.  
 
 - **Federalism** - Our United States government currently operates on a system of federalism, in which the power is divided between the state and federal government. 
-- **Declare instance variables** – Declare instance variables in the superclass that are shared with the subclasses and instance variables in the subclasses that are not shared with the superclass.
-- **Write constructors** – Write no-argument and parameterized constructors in the superclass and subclasses. Subclass constructors use the super keyword to call the superclass constructor.
-- **Implement accessor and mutator methods** – Write accessor and mutator methods for instance variables that should be accessible and/or modifiable from outside of the class.
-- **Implement a toString() method** – Write toString() methods in the superclass and subclasses that return information about the state of an object.
+- **Interdisciplinary Connections** – Reading <em>Into the Wild</em> brings audiences on Chris McCandless' journey of self-discovery in which he absolutely rejects technology and energy. This brings attention to the cruel reality of nature's harsh and unforgiving spirit and provides the reasoning and context as to why clean, affordable energy is a necessity in today's world. Within math, different graphs, tables, and other forms of data can be analyzed to observe the energy, social, and financial divide between those who with/without energy, predictions for energy use, and predictions for energy consumption. These numbers are important for determining who needs energy, how to distribute it, and its overall impact on society. 
+- **Political Ideology and Energy Policy** – While two people may agree that energy is important, they may disagree on how the government should approach and implement solutions. For example, one person may want the government to prioritize the maintenance of costs for regular households while another person may aim to prioritize limiting the effect of energy monopolies. Along with this, people may disagree on how much of a role the government should play within this aspect, and more specifically, the specific government that should have the most control (state vs. federal), and to what extent.
+- **Our Position** - Energy should be treated as a basic public necessity, but not necessarily as a natural or constitutional right. Natural rights are protections from government overreach, not guarantees to material goods. However, because power is vital for survival, the state must regulate and subsidize it as a public necessity to ensure baseline societal equality.
+
+### POLICY PROPOSAL
+
+Our proposed policy (California Solar Energy Affordability Policy) utilizes large plots of safe, unused land for solar panel installments and is aimed to support low-income households with additional clean energy. One specific location could be available land in the Mojave Desert, in which acres of solar panels can be installed. These solar panels will generate clean energy that will be used to support those most affected by energy burden such as low-income households and high-energy burden households. Mathematical models can be used to analyze the data and statistics necessary to determine the efficiency of said policy such as how much energy is produced, how much energy is consumed, and how much the energy costs. Specifically, limits can model the long term growth of energy production while derivatives can model the changing energy cost.
+
+**Policy Brief Hyperlink:** https://docs.google.com/document/d/1kf7ahCMfd5w96LbcOCmZLIp_2MNK8mcp06AgVLIrXPE/edit?usp=sharing
+
+## PSA Video
+
 
 ## UML Diagram
 
