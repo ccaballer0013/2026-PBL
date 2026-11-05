@@ -18,6 +18,8 @@ When investigating potential policy solutions, aspects such as political science
 > ![AP U.S. Government PDF Worksheet](The_Right_to_Power_AP_Gov.pdf) - <em>(includes relevant data, current events, ideological analysis, AP Government connections, policy review)</em>
 <br>**Policy Brief:** https://docs.google.com/document/d/1kf7ahCMfd5w96LbcOCmZLIp_2MNK8mcp06AgVLIrXPE/edit?usp=sharing
 
+## ERWC <em>Into the Wild</em> Poster
+
 ## PSA Video
 
 While energy helps contribute to multiple aspects of daily life, providing a cooling/warming system is a prominent aspect. The goal for this video was to evoke emotion within audiences by revealing the difference in scenarios between someone with and without energy during a heat wave. In this video, two side-by-side comparisons are given, with slight differences between an air conditioning system that works vs a system that doesn't turn on. 
