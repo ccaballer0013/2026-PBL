@@ -1,4 +1,4 @@
-# 2026 PBL: Powering Democracy
+# Fall 2026 Senior Interdisciplinary PBL | CCHS & G+STEAM Magnet Center
 
 ## Introduction
 
@@ -17,6 +17,7 @@ When investigating potential policy solutions, aspects such as political science
 
 Our proposed policy (California Solar Energy Affordability Policy) utilizes large plots of safe, unused land for solar panel installments and is aimed to support low-income households with additional clean energy. One specific location could be available land in the Mojave Desert, in which acres of solar panels can be installed. These solar panels will generate clean energy that will be used to support those most affected by energy burden such as low-income households and high-energy burden households. Mathematical models can be used to analyze the data and statistics necessary to determine the efficiency of said policy such as how much energy is produced, how much energy is consumed, and how much the energy costs. Specifically, limits can model the long term growth of energy production while derivatives can model the changing energy cost.
 
+**AP U.S. Government Worksheet**
 **Policy Brief Hyperlink:** https://docs.google.com/document/d/1kf7ahCMfd5w96LbcOCmZLIp_2MNK8mcp06AgVLIrXPE/edit?usp=sharing
 
 ## PSA Video
