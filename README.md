@@ -18,6 +18,7 @@ When investigating potential policy solutions, aspects such as political science
 
 ## PSA Video
 
+![PSA Animation Storyboard and Turnarounds](IMG_1038.jpeg)
 
 ## UML Diagram
 
