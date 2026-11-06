@@ -27,20 +27,12 @@ The book <em>Into the Wild</em> follows Chris McCandless on his journey of self-
 
 ## PSA Video
 
-While energy helps contribute to multiple aspects of daily life, providing a cooling/warming system is a prominent aspect. The goal for this video was to evoke emotion within audiences by revealing the difference in scenarios between someone with and without energy during a heat wave. In this video, two side-by-side comparisons are given, with slight differences between an air conditioning system that works vs a system that doesn't turn on. 
-<br><br>By bringing attention to a specific energy-related event and its impact on one aspect of daily life, this PSA video brings awareness to the importance of energy and why it should be a necessity for all households. 
+While energy helps contribute to multiple aspects of daily life, providing a cooling/warming system is a prominent aspect. The goal for this video was to evoke emotion within audiences by revealing the difference in scenarios between someone with and without energy during a heat wave. In this video, two side-by-side comparisons are given, with slight differences between an air conditioning system that works vs a system that doesn't turn on. By bringing attention to a specific energy-related event and its impact on one aspect of daily life, this PSA video brings awareness to the importance of energy and why it should be a necessity for all households. 
+<br><br>Character turnarounds and storyboarding were necessary steps into planning the story, movements, and expression. Animation techniques such as "ease in / ease out" and frame rates were applied from CTE course, 2D Animation. The video's music is credited from Ukranian artist, andriih from the website, pixabay.
 
 > **Character Turnarounds**
 > <br> ![PSA Animation Storyboard and Turnarounds](IMG_1046.jpeg)
 > <br> **Storyboard Planning**
 > <br> ![PSA Animation Storyboard](IMG_1047.jpeg)
 
-## UML Diagram
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
-
-## Description
-
-> Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console
+<br>**Video Link:** https://canva.link/u9p4cv1virs4lb3
