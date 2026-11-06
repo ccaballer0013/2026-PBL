@@ -20,6 +20,10 @@ When investigating potential policy solutions, aspects such as political science
 
 ## ERWC <em>Into the Wild</em> Poster
 
+The book <em>Into the Wild</em> follows Chris McCandless on his journey of self-discovery, as he ultimately refuses to use modern technology as he travels throughout the country and eventually into Alaska. Our artwork suggests that freedom is the ability to reject social norms and live your life as you see fit. Chris McCandless leaving his former life behind to seek independence outdoors is symbolized by the stairs that lead away from the city and toward the mountains. The green mountains represent nature and a new beginning, while the grey buildings reflect thelife and obligations McCandless wishes to escape. The figure walking towards the mountains represents McCandless seeking to move on from his former life and isolating himself from the people he once knew.
+<br><br>This artwork supports our group’s position since it demonstrates that even with a nomadic lifestyle, power is still necessary. As McCandless transitions from a privileged life in the suburbs to a nomadic lifestyle, the importance of accessible energy is highlighted. McCandless’ unfortunate death proves that access to energy is necessary to everyday life. While he may have been able to survive for a couple of years, one of the main reasons for this was due to the assistance he received from those who did have access to energy and were able to help provide for him.
+
+
 ## PSA Video
 
 While energy helps contribute to multiple aspects of daily life, providing a cooling/warming system is a prominent aspect. The goal for this video was to evoke emotion within audiences by revealing the difference in scenarios between someone with and without energy during a heat wave. In this video, two side-by-side comparisons are given, with slight differences between an air conditioning system that works vs a system that doesn't turn on. 
